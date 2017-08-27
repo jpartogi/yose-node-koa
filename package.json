@@ -3,6 +3,9 @@
   "version": "0.9.0",
   "description": "Yose with KoaJS",
   "main": "app.js",
+  "engines": {
+    "node": "7.6.0"
+  },
   "scripts": {
     "start": "node server.js",
     "test": "mocha"
